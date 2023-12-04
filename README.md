@@ -2,7 +2,7 @@
 ---
 # Practice 1: House Buying Assistant
 ---
-## Elena Alegret i Júlia Orteu
+## Elena Alegret and Júlia Orteu
 
 This directory contains files related to the implementation of Practice 1 for Speech and Dialogue Processing.
 
@@ -18,7 +18,7 @@ This directory contains files related to the implementation of Practice 1 for Sp
 
 6. 'REPORT.pdf': Project report in PDF format, which includes the answers to the practice exercises, the conversation flow of the assistant, and the conclusions drawn from the practice.
 
-# Execució de l'assistent:
+# Assistant execution:
 
 To run the program, both in the original version and with a graphical interface, you need to call the modified main function using Python3:
 
