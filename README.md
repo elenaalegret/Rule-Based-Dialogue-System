@@ -23,4 +23,5 @@ This directory contains files related to the implementation of Practice 1 for Sp
 To run the program, both in the original version and with a graphical interface, you need to call the modified main function using Python3:
 
 • '$ python3 main.py
+
 • '$ python3 main_interface.py
